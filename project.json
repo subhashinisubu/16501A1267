@@ -25,5 +25,43 @@
     "institute":"S.S.R.V.Mandir",
     "data":["2014","95%"]
   }
+],
+"skills":[
+  {
+    "title":"Programming Language:  ",
+    "info":["c","c++","java","Ruby","R"]
+  },
+  {
+    "title":"Databases: ",
+    "info":["oracle","SQL"]
+  },
+  {
+  "title":"Operating Systems: ",
+  "info":["Windows","unix"]
+   },
+   {
+     "title":"Web Technologies: ",
+     "info":["JavaScript","HTML"]
+   }
+],
+"Acheivements":[
+  {
+    "name":"Paper presentation",
+    "Venue":"PVPSIT",
+    "Year":"2017",
+    "place":"1st place"
+  },
+  {
+    "name":"Technical Quiz",
+    "Venue":"PVPSIT",
+    "Year":"2017",
+    "place":"2nd place"
+  },
+  {
+    "name":"poster presentation",
+    "Venue":"PVPSIT",
+    "Year":"2018",
+    "place":"1st place"
+  }
 ]
 }
